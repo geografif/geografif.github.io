@@ -5,25 +5,26 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "M. Afif Fauzan"
 title_separator          : "-"
-name                     : &name "Rob Williams"
-description              : &description "Postdoc in Political Science"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "M. Afif Fauzan"
+description              : &description "Personal page"
+url                      : https://geografif.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jayrobwilliams/jayrobwilliams.github.io"
+repository               : "geografif/geografif.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : false
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : "fauaf"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -57,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : jayrobw
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -77,21 +78,21 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : geografif
 
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "M. Afif Fauzan"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
+  bio              : "MSc student in geo-information science & earth observation"
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : # "https://orcid.org/0000-0003-0898-5687"
+  googlescholar    : # "https://scholar.google.com/citations?user=mCGH0uIAAAAJ"
+  email            : "m.afif.fauzan@outlook.com"
+  researchgate     :  # "https://www.researchgate.net/profile/M-Afif-Fauzan"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,25 +100,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : # "geografif"
+  gitlab           : # "geografif"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jayrobwilliams"
-  mastodon         : "fosstodon.org/@jayrobw"
+  linkedin         : "m-afif-fauzan"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : #"geografif"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : #"afifauzan"
   wikipedia        :
 
 
@@ -151,6 +151,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+
 keep_files:
   - .git
   - .svn
@@ -257,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

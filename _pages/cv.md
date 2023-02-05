@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: Single
+classes: wide
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,6 +8,9 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/pdf/Williams CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+## Working Papers and Reports
 
-You can download a PDF copy of my CV [here](/files/pdf/Williams CV.pdf).
+<li>East Kalimantan Province Government - Department of Spatial Planning<br>
+The study explores open-source tools and libraries to analyse geographic distances from slums to the nearest primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
+<br>
+<hr/>

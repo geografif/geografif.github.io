@@ -1,5 +1,6 @@
 ---
 permalink: /
+classes: wide
 title:
 excerpt: "Personal Page"
 author_profile: false

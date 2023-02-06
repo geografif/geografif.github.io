@@ -12,8 +12,14 @@ main:
   # title: "Software"
   #  url: /software/
 
-  - title: "Posts"
-    url: /posts/
+  # title: "Posts"
+  #  url: /posts/
 
   - title: "CV"
     url: /cv/
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Portfolio"
+    url: /portfolio/

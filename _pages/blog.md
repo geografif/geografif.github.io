@@ -1,6 +1,6 @@
 ---
-permalink: /notes/
-title: Notes
+permalink: /blog/
+title: Blog
 header:
   og_image: "https://pbs.twimg.com/profile_images/1544940040190857217/Ai3FPEsP_400x400.jpg"
 ---

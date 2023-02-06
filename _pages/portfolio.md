@@ -6,7 +6,7 @@ header:
 ---
 ### Polarimetric SAR Features Could Improve Oil Palm Mapping Accuracy
 <br>
-![](/images/posts/thumbnail/polsar.png){: .align-left} Comparing supervised Synthetic Aperture Radar (SAR) image classification accuracy with and without polarimetric features for mapping oil palms and surrounding land covers using pixel-based classification approach.
+![](/images/posts/thumbnail/polsar.png){: .align-left} Comparing supervised Synthetic Aperture Radar (SAR) image classification accuracy with and without polarimetric SAR features for mapping oil palms and surrounding land covers in the highest palm oil-producing province using pixel-based classification approach.
 <br>
 [Read more](/posts/2022/11/polsar-classification)
 
@@ -14,7 +14,7 @@ header:
 
 ### Lunds Kommun Land Cover Mapping
 <br>
-![](/images/posts/thumbnail/lundskommun.png){: .align-left} Land cover mapping using pixel-based classification approaches of Sentinel-2 optical satellite images.
+![](/images/posts/thumbnail/lundskommun.png){: .align-left} Land cover mapping using pixel-based classification approaches of Sentinel-2 optical satellite images and field data in Lund Municipality. Which class and which method should be considered?
 <br>
 [Read more](/posts/2022/04/lundskommun)
 
@@ -22,7 +22,7 @@ header:
 
 ### Web-mapping of Bike Pump Facilities in Lund
 <br>
-![](/images/posts/thumbnail/bike.png){: .align-left} Using R Leaflet to create web map of bike pump facility distribution around Lund Municipality.
+![](/images/posts/thumbnail/bike.png){: .align-left} Cycling infrastructure is not limited to the designated bikeways (e.g. bike paths, bike lanes, cycle tracks) but also public facilities for pumping air to bike tires. In Lund Municipality, these public pumps are distributed well. Here, a location data was compiled to create web maps of bike pump facility distribution around Lund Municipality.
 <br>
 [Read more](/posts/2022/01/bikepump)
 
@@ -30,7 +30,7 @@ header:
 
 ### Carbon Ecosystem Exchange: An Introduction
 <br>
-![](/images/posts/thumbnail/carbon.PNG){: .align-left} Notes on carbon ecosystem exchange concept and related open data that could be used for mapping, monitoring, and spatially modelling carbon in the ecosystem.
+![](/images/posts/thumbnail/carbon.PNG){: .align-left} As plants consume sunlight and carbon dioxide from air, the carbon stored in plants biomass. As it rots, it releases methane where carbon returns to the atmosphere. Here are some some notes on carbon ecosystem exchange concept and related open data that could be used for mapping, monitoring, and spatially modelling carbon in the ecosystem.
 <br>
 [Read more](/posts/2022/01/gis-carbon/)
 
@@ -38,7 +38,7 @@ header:
 
 ### Characterizing Seagrass Dynamics off Derawan Island
 <br>
-![](/images/posts/thumbnail/derawan.png){: .align-left} Potential use of Sentinel-2 time-series images for monitoring change in underwater natural resources of seagrass habitat.
+![](/images/posts/thumbnail/derawan.png){: .align-left} You may have often heard about how forest ecosystems play an important role in maintaining biodiversity and carbon ecosystems. But, have you ever thought that there are other ecosystems that also have a similar role? Here, Sentinel-2 time-series images were used to monitoring change in this precious blue carbon seagrass ecosystem.
 <br>
 [Read more](/posts/2021/10/derawan-seagrass)
 

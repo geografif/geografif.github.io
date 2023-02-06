@@ -6,7 +6,7 @@ header:
 ---
 ### #30daymapchallenge mapathon at University of Tartu
 <br>
-![](/images/posts/thumbnail/30dmc.jpg){: .align-left} In welcoming November when the *#30daymapchallenge* would take place, The University of Tartu hosted a mapathon where groups of students prepared maps to participate in this year’s challenge. The hackathon was opened with plenary talk from Topi Tjukanov as the challenge initiator himself. This event is held for two days, from 15 to 16 October.
+![](/images/posts/thumbnail/30dmc.jpg){: .align-left} In welcoming November when the *#30daymapchallenge* would take place, The University of Tartu hosted a mapathon where groups of students prepared maps to participate in this year’s challenge. The mapathon was opened with plenary talk from Topi Tjukanov as the challenge initiator himself. This event is held for two days, from 15 to 16 October.
 <br>
 [Read more](/posts/2021/10/30daymapchallenge-hackathon/)
 

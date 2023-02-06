@@ -33,7 +33,7 @@ into the early stages of radicalization.
 
 {% include base_path %}
 
-{% assign ordered_pages = site.posts | sort:"date" %}
+{% assign ordered_pages = site.posts.tags.marine | sort:"date" %}
 
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}

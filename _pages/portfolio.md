@@ -4,6 +4,14 @@ title: Portfolio
 header:
   og_image: "https://pbs.twimg.com/profile_images/1544940040190857217/Ai3FPEsP_400x400.jpg"
 ---
+### Detecting Period of Oil-Palm Driven Deforestation with SITS
+<br>
+![](/images/posts/thumbnail/timeseries.png){: .align-left} Having a dense satellite image time series could be useful for assessing pixel-wise change of land cover, which could be indicated by a significant change in its signal. Here, two popular time-series analysis methods were used to detect deforestation caused by oil palm plantation in Papua, where nation's current largest reserve of rainforests exist and threatened by such deforestation cause.
+<br>
+[Coming soon](#)
+
+<hr/>
+
 ### Polarimetric SAR Features Could Improve Oil Palm Mapping Accuracy
 <br>
 ![](/images/posts/thumbnail/polsar.png){: .align-left} Comparing supervised Synthetic Aperture Radar (SAR) image classification accuracy with and without polarimetric SAR features for mapping oil palms and surrounding land covers in the highest palm oil-producing province using pixel-based classification approach.

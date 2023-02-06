@@ -9,8 +9,8 @@ permalink: /posts/2021/10/30daymapchallenge-hackathon/
 excerpt_separator: <!--more-->
 toc: false
 header:
-  teaser: "https://pbs.twimg.com/media/FB-EUxZXsAYaGTg?format=jpg&name=small"
-  og_image: "https://pbs.twimg.com/media/FB-EUxZXsAYaGTg?format=jpg&name=small"
+  teaser: "https://geografif.github.io/images/thumbnail/30dmc.jpg"
+  og_image: "https://geografif.github.io/images/thumbnail/30dmc.jpg"
 tags:
   - GEM
 ---

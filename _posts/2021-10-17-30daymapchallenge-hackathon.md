@@ -12,10 +12,9 @@ header:
   teaser: "https://pbs.twimg.com/media/FB-EUxZXsAYaGTg?format=jpg&name=small"
   og_image: "https://pbs.twimg.com/media/FB-EUxZXsAYaGTg?format=jpg&name=small"
 tags:
-  - GEM MSc
-  - Erasmus+
-  - #30DayMapChallenge
+  - GEM
 ---
+<!--more-->
 [![Erasmus](https://img.shields.io/badge/-Erasmus+-003194?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAD8AAAA%2FCAMAAABggeDtAAABIFBMVEUAAAAPP48VP48TP4sWP4wWP4oXQYsYQYoZQYkaQocdQ4gdRoQhRoUlSoMmSYI1Unk2U3k5Vnc6VXY8V3U9WHQ%2BWXRBWnJDXHFEW3BJXm1KX21MYWtNYmtQY2lTZGdVZmZdamFea2FgbV9hbl9mcVxncFtqc1lrdFlsc1hudVdvdlZyd1V3elJ%2FgE2Af0yBgEyEg0qKhUaNiESOiUSQiUORikKSi0GZjj2ajz2ilTiklTenmDWvnDCxni%2BynS6zni60ny27pCm8oyi9pCi%2BpSe%2FpibCpyXEqSPHqiLOrx3VshnbthbduBTiuxHlvBDmvQ%2Fovw7pvg3qvw3uwQrvwgryxQjzxAf0xQf3yAX4xwT6yQP7ygL8ywL9ygH%2BywH%2FzAAAmFa4AAAADHRSTlMAEDBAUHCAkKDA0PBxv%2FUxAAABiElEQVR42u3PhXLbShhA4RPm5DKGmZkZimFG2%2Bf936KaxvFU9ni0KtO3zPvznaut54M8f8b7m11a0qWlWdJogoJJIwuxxUR%2FLELhyKZukLcCM7%2BTzBfukefBgeTtRQsEUHnSDV3xhSSvjNxAqSsjr0k059T2GSXOtqecI0CjlJFrIMS%2FlPEfX7PlNgL9skSx41EcItCw9OwTZ%2BRlFwH%2B2TJCkVb1iCBHaitFciqB1BxxfZP8KYH8m9FeSgwQaISfPqrKSlKrqKSgUugihS4wdl4nSGFSC%2BcZyaoXpHKhZkd4VLOnkoq6V8OTSn9dyZJCZuu3WPzbpLZeSUEF4cIPhfvpLyBDoMzjgRgXLyWQl4tSZFWzBMrqKkW2jFxXkajq2sgWcdPeO0%2Bgee%2Bdplimg0AdGUpRXUeg%2Blq%2BZjuUsUuITinDTpK0rB0a6aFEj5HDtRYSnKptPGotVJE29ZRk6v%2FkCZLXrhJA%2BiXvVu%2FIy40jycZ4x4mely6GavatVt7fQ4YPMjTId%2B0N62JShWj%2Bbc4AAAAASUVORK5CYII%3D&labelColor=003194)](#)
 
 In welcoming November when the [#30daymapchallenge](https://30daymapchallenge.com/) would take place, The University of Tartu hosted a hackathon where groups of students prepared maps to participate in this year’s challenge<!--more-->. The hackathon was opened with plenary talk from Topi Tjukanov as the challenge initiator himself. This event is held for two days, from 15 to 16 October.

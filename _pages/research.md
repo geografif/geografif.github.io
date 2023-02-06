@@ -36,5 +36,5 @@ into the early stages of radicalization.
 {% assign ordered_pages = site.posts | sort:"date" %}
 
 {% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
+  {% include archive.html type="grid" %}
 {% endfor %}

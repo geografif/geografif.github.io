@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 ## Work Experience
-
-### Work experience
 * [**GIS Officer**](/daltarukaltim/) (2019-2021)<br>
 &nbsp;East Kalimantan Province Government - Department of Spatial Planning
 * [**Data Quality Intern**](#) (2020)<br>
@@ -20,7 +18,7 @@ redirect_from:
 * [**Student Assistant**](/coastalbiodiversity/) (2017-2018)<br>
 &nbsp;Coastal Biodiversity Remote Sensing Research Group UGM
 <hr/>
-### Education
+## Education
 * [**Faculty of ITC - University of Twente**](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/specialisation/natural-resources-management/#programme-overview) (2022-Present)<br>
 &nbsp;M.Sc. in Geo-information Science and Earth Observation for Environmental Modelling and Management
 * [**Lund University**](https://www.nateko.lu.se/education/masters-programmes/geo-information-science-and-earth-observation-environmental-modelling-and-management-gem) (2021-2022)<br>

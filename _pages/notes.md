@@ -14,7 +14,7 @@ header:
 
 ### Notes on mobility for GEM MSc students
 <br>
-![](/images/posts/thumbnail/mobility.jpg){: .align-left} Summary of information regarding Track 3 students Erasmus+ mobility from Non-EU country. Steps and timeline might be different with the current system.
+![](/images/posts/thumbnail/mobility.jpg){: .align-left} Summary of information regarding arrival and Erasmus+ mobility in Lund, Sweden and Enschede, The Netherlands for Track 3 students based on my experience coming from Non-EU country. Steps and timeline might be different with the current system.
 <br>
 [Read more](/posts/2021/11/mobility/)
 

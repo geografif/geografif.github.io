@@ -76,7 +76,7 @@ social:
 analytics:
   provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
-    tracking_id          : 
+    tracking_id          :
   goatcounter:
     code		 : geografif
 
@@ -201,10 +201,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      show_date: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""

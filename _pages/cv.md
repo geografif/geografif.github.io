@@ -8,9 +8,9 @@ redirect_from:
   - /resume
 ---
 
-## Working Papers and Reports
+## Work Experience
 
-<li>East Kalimantan Province Government - Department of Spatial Planning<br>
+East Kalimantan Province Government - Department of Spatial Planning
 The study explores open-source tools and libraries to analyse geographic distances from slums to the nearest primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
 <br>
 <hr/>

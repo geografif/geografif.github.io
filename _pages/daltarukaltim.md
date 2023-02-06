@@ -18,6 +18,7 @@ header:
   og_image: "https://pbs.twimg.com/profile_images/1544940040190857217/Ai3FPEsP_400x400.jpg"
 ---
 **GIS Officer**
+<br>
 *East Kalimantan Province Government's Department of Spatial Planning*
 <hr/>
 

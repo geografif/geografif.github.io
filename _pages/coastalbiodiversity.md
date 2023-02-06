@@ -15,6 +15,7 @@ header:
   og_image: "https://i.imgur.com/yKaO7s8.png"
 ---
 **Student Assistant**
+<br>
 *Coastal Biodiversity Remote Sensing Research Group UGM*
 <hr/>
 

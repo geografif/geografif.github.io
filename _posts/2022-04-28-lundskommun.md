@@ -15,8 +15,8 @@ permalink: /posts/2022/04/lundskommun
 excerpt_separator: <!--more-->
 toc: true
 header:
- teaser: "https://geografif.github.io/images/thumbnail/lundskommun.png"
- og_image: "https://geografif.github.io/images/thumbnail/lundskommun.png"
+ teaser: "https://geografif.github.io/images/posts/thumbnail/lundskommun.png"
+ og_image: "https://geografif.github.io/images/posts/thumbnail/lundskommun.png"
 tags:
   - optical
 ---

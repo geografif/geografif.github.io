@@ -3,11 +3,11 @@ permalink: /bpnkanwilkaltim/
 title:
 gallery:
   - url: #
-    image_path: https://geografif.github.io/images/posts/polsar-classification/polsar_00_cover.png
+    image_path: https://geografif.github.io/images/posts/thumbnail/polsar.png
     alt: "Detecting abandoned land in oil palm concession"
     title: "Detecting abandoned land in oil palm concession"
   - url: #
-    image_path: 
+    image_path:
     alt:
     title:
   - url: #

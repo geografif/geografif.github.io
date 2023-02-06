@@ -15,8 +15,8 @@ permalink: /posts/2022/11/polsar-classification
 excerpt_separator: <!--more-->
 toc: true
 header:
- teaser: "https://geografif.github.io/images/thumbnail/polsar.png"
- og_image: "https://geografif.github.io/images/thumbnail/polsar.png"
+ teaser: "https://geografif.github.io/images/posts/thumbnail/polsar.png"
+ og_image: "https://geografif.github.io/images/posts/thumbnail/polsar.png"
 tags:
   - radar
 ---

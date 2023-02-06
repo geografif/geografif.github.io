@@ -8,9 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!--
-<img align="right" src="https://geografif.github.io/images/profile.png" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>-->
-![](https://geografif.github.io/images/profile.png){: .align-left} Hi! I am Afif. <p><br>
+![](https://geografif.github.io/images/profile.png){: .align-left} Hi! I am Afif. <p><p>
 Currently, I am pursuing a master's degree in geo-information science and earth observation under Erasmus Mundus GEM joint programme with focus on ecosystems and natural resources. My interests include earth observation for environmental monitoring and natural resource management, public policy, and knowledge sharing.
 <p><p>
 <br>

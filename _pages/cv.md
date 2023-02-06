@@ -17,7 +17,7 @@ redirect_from:
 &nbsp;Ministry of Agrarian and Spatial Planning of Republic Indonesia - East Kalimantan Regional Office
 * [**Student Assistant**](/coastalbiodiversity/) (2017-2018)<br>
 &nbsp;Coastal Biodiversity Remote Sensing Research Group UGM
-<hr/>
+<p><p>
 ## Education
 * [**Faculty of ITC - University of Twente**](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/specialisation/natural-resources-management/#programme-overview) (2022-Present)<br>
 &nbsp;M.Sc. in Geo-information Science and Earth Observation for Environmental Modelling and Management

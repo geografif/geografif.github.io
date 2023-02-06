@@ -18,6 +18,7 @@ redirect_from:
 * [**Student Assistant**](/coastalbiodiversity/) (2017-2018)<br>
 &nbsp;Coastal Biodiversity Remote Sensing Research Group UGM
 
+
 ## Education
 * [**Faculty of ITC - University of Twente**](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/specialisation/natural-resources-management/#programme-overview) (2022-Present)<br>
 &nbsp;M.Sc. in Geo-information Science and Earth Observation for Environmental Modelling and Management

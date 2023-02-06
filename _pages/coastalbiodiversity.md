@@ -1,6 +1,6 @@
 ---
 permalink: /coastalbiodiversity/
-title: "Student Assistant ( Coastal Biodiversity Remote Sensing Research Group UGM)"
+title:
 gallery:
   - url: https://geografif.github.io/posts/2021/10/derawan-seagrass
     image_path: https://i.imgur.com/yKaO7s8.png
@@ -14,6 +14,9 @@ gallery:
 header:
   og_image: "https://i.imgur.com/yKaO7s8.png"
 ---
+### Student Assistant
+### Coastal Biodiversity Remote Sensing Research Group UGM
+
 
 I was in the art club and student publication body, but my time assisting research was what I enjoyed the most.
 

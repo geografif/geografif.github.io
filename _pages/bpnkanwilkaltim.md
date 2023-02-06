@@ -14,12 +14,12 @@ header:
 *Ministry of Agrarian and Spatial Planning of Republic Indonesia - East Kalimantan Regional Office*
 <hr/>
 
-Working as a GIS consultant for the Land Administration Regional Office in East Kalimantan was my first job after graduating as a bachelor’s with a geospatial degree. My role was to compile agrarian reform objects with the following criteria:
-- State forest area release
-- 20% land allocation of corporate plantation concession holder
-- Abandoned concession land
-- Uncertified transmigration settlement
+Working as a GIS consultant for the Land Administration Regional Office in East Kalimantan was my first job after graduating from college. My role was to compile and manage datasets for agrarian reform objects within the following criteria:
+- State forest release areas
+- 20% land allocation from corporate plantation's concessions
+- Abandoned concession lands
+- Uncertified transmigration settlements
 
-My article on detecting abandoned land in oil palm concession from remote sensing can be access below
+Among the criteria, abandoned concession lands are the only criteria that could be directly observed from remotely sensed images if the concession boundaries are known. My article on detecting abandoned land in oil palm concession from remote sensing can be access below
 
-{% include gallery layout="half" caption="Abandoned land in oil palm concession" %}
+{% include gallery caption="Abandoned land in oil palm concession" %}

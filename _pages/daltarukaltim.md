@@ -17,8 +17,9 @@ gallery:
 header:
   og_image: "https://pbs.twimg.com/profile_images/1544940040190857217/Ai3FPEsP_400x400.jpg"
 ---
-### GIS Officer
-### East Kalimantan Province Government's Department of Spatial Planning
+**GIS Officer**
+*East Kalimantan Province Government's Department of Spatial Planning*
+<hr/>
 
 I joined the Land Control Unit in East Kalimantan Province Government’s Department of Spatial Planning in early 2019. My role was to support the geospatial aspect of policy implementation regarding spatial planning and land use permit. In short, my routine was to provide a suitability assessment between the proposed land use activity and the spatial plan prior to the permit issuance by the government.
 

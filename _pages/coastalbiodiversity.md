@@ -14,9 +14,9 @@ gallery:
 header:
   og_image: "https://i.imgur.com/yKaO7s8.png"
 ---
-### Student Assistant
-### Coastal Biodiversity Remote Sensing Research Group UGM
-
+**Student Assistant**
+*Coastal Biodiversity Remote Sensing Research Group UGM*
+<hr/>
 
 I was in the art club and student publication body, but my time assisting research was what I enjoyed the most.
 

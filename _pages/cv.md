@@ -31,3 +31,8 @@ redirect_from:
 <p></p>
 * [**Universitas Gadjah Mada**](https://kpj.geo.ugm.ac.id/en/halaman-muka-en/) (2013-2018)<br>
 &nbsp;S.Si. in Cartography and Remote Sensing
+
+
+## Training
+* **Earthworm Foundation** (2019)<br>
+&nbsp;Conservation Area Management (High Conservation Value, High Carbon Stock, Participatory Conservation Planning, Environmental Monitoring/Management Plan)

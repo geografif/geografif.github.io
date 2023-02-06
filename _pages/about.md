@@ -13,10 +13,11 @@ redirect_from:
 Currently, I am pursuing a master's degree in geo-information science and earth observation under Erasmus Mundus GEM joint programme with focus on ecosystems and natural resources. My interests include earth observation for environmental monitoring and natural resource management, public policy, and knowledge sharing.
 <p><p>
 <br>
-I put a summary of my experience [here](/cv/)
+I put a summary of my experience <a href="https://geografif.github.io/cv/">here</a>
+
 <p><p>
 <br>
-Some of my works are listed [here](/portfolio/)
+Some of my works are listed <a href="https://geografif.github.io/portfolio/">here</a>.
 <p><p>
 <br>
 Cheers!

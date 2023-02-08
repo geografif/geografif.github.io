@@ -8,9 +8,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![](https://geografif.github.io/images/profile.png){: .align-left} Hi, *Hai, Hallo, Hej, Hoi, Hola*!
+![](https://geografif.github.io/images/profile.png){: .align-left} Hi, *Hai, Hallo, Hej, Hoi, Ahoj, Hola*!
 <p><p>
-I am Afif, a student of geo-information science and earth observation under the Erasmus Mundus GEM joint master program with a focus on ecosystems and natural resources. My interests include applying geospatial technology for environmental monitoring and aiding public policy, as well as knowledge sharing. Currently, I am looking for an opportunity to expand my knowledge in the domain of natural resource management, supply chain sustainability assessment, and carbon accounting.
+I am Afif, a student of geo-information science and earth observation under the Erasmus Mundus GEM joint master program, with a focus on ecosystems and natural resources. My interests lie in applying geospatial technology for environmental monitoring and aiding public policy, as well as knowledge sharing. Currently, I am looking for an opportunity to expand my knowledge in the domain of natural resource management, supply chain sustainability assessment, and carbon accounting.
 
 <p><p>
 <br>

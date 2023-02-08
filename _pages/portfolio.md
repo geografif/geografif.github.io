@@ -46,7 +46,7 @@ header:
 
 ### Characterizing Seagrass Dynamics off Derawan Island
 <br>
-![](/images/posts/thumbnail/derawan.png){: .align-left} You may have often heard about how forest ecosystems play an important role in maintaining biodiversity and carbon ecosystems. But, have you ever thought that there are other ecosystems that also have a similar role? Here, multi-temporal satellite images were used to characterize change & dynamics in this precious blue carbon ecosystem of seagrasses.
+![](/images/posts/thumbnail/derawan.gif){: .align-left} You may have often heard about how forest ecosystems play an important role in maintaining biodiversity and carbon ecosystems. But, have you ever thought that there are other ecosystems that also have a similar role? Here, multi-temporal satellite images were used to characterize change & dynamics in this precious blue carbon ecosystem of seagrasses.
 <br>
 [Read more](/posts/2021/10/derawan-seagrass)
 

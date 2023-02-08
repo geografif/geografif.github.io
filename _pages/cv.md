@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 ## Work Experience
-* [**GIS Officer**](/daltarukaltim/) (2019-2021)<br>
+* [**GIS Officer**](#) (2019-2021)<br>
 &nbsp;East Kalimantan Province Government - Department of Spatial Planning
 * [**Data Quality Intern**](#) (2020)<br>
 &nbsp;Humanitarian OpenStreetMap Team
-* [**Individual Consultant**](/bpnkanwilkaltim/) (2018)<br>
+* [**Individual Consultant**](#) (2018)<br>
 &nbsp;Ministry of Agrarian and Spatial Planning of Republic Indonesia - East Kalimantan Regional Office
-* [**Student Assistant**](/coastalbiodiversity/) (2017-2018)<br>
+* [**Student Assistant**](#) (2017-2018)<br>
 &nbsp;Coastal Biodiversity Remote Sensing Research Group UGM
 
 
@@ -35,4 +35,5 @@ redirect_from:
 
 ## Training
 * **Earthworm Foundation** (2019)<br>
-&nbsp;Conservation Area Management (High Conservation Value, High Carbon Stock, Participatory Conservation Planning, Environmental Monitoring/Management Plan)
+&nbsp;Conservation Area Management
+&nbsp;(*High Conservation Value Assessment, High Carbon Stock Assessment, Participatory Conservation Planning, Environmental Monitoring/Management Plan*)

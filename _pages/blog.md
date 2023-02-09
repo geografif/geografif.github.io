@@ -20,7 +20,7 @@ header:
 
 <hr/>
 
-### Notes on mobility for GEM MSc students
+### A Learning center in the middle of nowhere: Lemungsure
 <br>
 ![](/images/posts/thumbnail/lemungsure.JPG){: .align-left} My experience in participating funded training by The Forest Trust / Earthworm Foundation in Conservation Area Management. Topics include High Conservation Value Asessment, High Carbon Stock Assessment, Participatory Conservation Planning, and Environmental Monitoring/Management Plan.
 <br>

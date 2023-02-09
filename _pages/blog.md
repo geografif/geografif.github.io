@@ -8,7 +8,7 @@ header:
 <br>
 ![](/images/posts/thumbnail/busathon.JPG){: .align-left} GEM students from all study tracks were reunited again in the summer, where a bus trip brought them across The Netherlands to meet non-spatial business/problem owners and ideating geospatial solutions.
 <br>
-[Coming soon(#)
+[Coming soon](#)
 
 <hr/>
 

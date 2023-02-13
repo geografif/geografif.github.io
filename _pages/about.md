@@ -10,15 +10,13 @@ redirect_from:
 ---
 ![](https://geografif.github.io/images/profile.png){: .align-left} Hi, *Hai, Hallo, Hej, Hoi, Ahoj, Hola*!
 <p><p>
-I am Afif, a student of geo-information science and earth observation under the Erasmus Mundus GEM joint master program, with a focus on ecosystems and natural resources. My interests lie in applying geospatial technology for environmental monitoring and aiding public policy, as well as knowledge sharing. Currently, I am looking for an opportunity to deepen my knowledge in the domain of natural resource management, supply chain sustainability assessment, and carbon accounting.
+I am Afif, a student pursuing a Master's degree in Geo-Information Science and Earth Observation through the Erasmus Mundus GEM joint master program, with a focus on Ecosystems and Natural Resources. Prior to graduate school, I gained <a href="https://geografif.github.io/cv/">experience</a> in both academic and public sector settings where I applied my geospatial skill in research and public policy implementation related to natural resource and spatial planning. My ongoing studies aim to deepen my understanding of how to extract meaningful information from satellite images for environmental monitoring and support for natural resource management.
 
 <p><p>
-<br>
-My previous experience before graduate school is summarized <a href="https://geografif.github.io/cv/">here</a>.
+My current MSc thesis focuses on deep learning-based fusion of optical and SAR remote sensing images for mapping oil palms in the riparian zone. I am deeply interested in the technical aspects of geospatial technology and I am eager to broaden my domain knowledge in related fields. In particular, I am seeking opportunities to gain hands-on experience in ecosystem valuation, supply chain sustainability assessment, and carbon accounting.
 
 <p><p>
-<br>
-Examples of my works are listed <a href="https://geografif.github.io/portfolio/">here</a>. Nothing fancy, but might guided myself or someone in the future.
+In my leisure time, I enjoy watching movies, reading, learning new languages, <a href="https://geografif.github.io/portfolio/">writing</a>, and taking walks in the sunshine to soak up some vitamin D.
+
 <p><p>
-<br>
 Cheers!

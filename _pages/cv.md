@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 ## Work Experience
-* [**GIS Officer**](#) (2019-2021)<br>
-&nbsp;East Kalimantan Province Government - Department of Spatial Planning
+* **East Kalimantan Province Government - Department of Spatial Planning**br>
+Position: GIS Officer
+Location: Samarinda, Indonesia
+Deliverables: dasadasdsa
+
 * [**Data Quality Intern**](#) (2020)<br>
 &nbsp;Humanitarian OpenStreetMap Team
 * [**Individual Consultant**](#) (2018)<br>

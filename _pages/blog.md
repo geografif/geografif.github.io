@@ -6,7 +6,7 @@ header:
 ---
 ### Holland Busathon: A GEM summer event
 <br>
-![](/images/posts/thumbnail/busathon.JPG){: .align-left} In the heat of summer, GEM students from all streams of study are brought face-to-face for the first time, as a bus journey takes them across the Netherlands to meet business owners and provide solutions to their spatial problems.
+![](/images/posts/thumbnail/busathon.JPG){: .align-left} In the heat of summer, GEM students from all study tracks were brought face-to-face for the first time, as a bus journey took them across the Netherlands to meet business owners and provide solutions to their spatial problems.
 <br>
 [Coming soon](#)
 

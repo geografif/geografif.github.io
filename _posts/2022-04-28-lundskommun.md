@@ -69,6 +69,9 @@ As the classifier would use inputs from the users, it is important to ensure the
 <figcaption>Sources of error that introduce misclassification in land cover mapping</figcaption>
 </p>
 
+### About
+This project was a group work with Ibrahim Raufu, Md Saiful Islam, and Magdalena Gunkova.
+
 [^1]: Richards, J. A. (2022). [Remote sensing digital image analysis](https://link.springer.com/book/10.1007/978-3-030-82327-6). Berlin: springer
 
 [^2]: Belgiu, M., & Drăguţ, L. (2016). [Random forest in remote sensing: A review of applications and future directions](https://doi.org/10.1016/j.isprsjprs.2016.01.011).  ISPRS journal of photogrammetry and remote sensing, 114, 24-31.

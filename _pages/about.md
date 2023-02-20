@@ -10,7 +10,7 @@ redirect_from:
 ---
 ![](https://geografif.github.io/images/profile.png){: .align-left} Hi, *Hai, Hallo, Hej, Hoi, Ahoj, Hola*!
 <p><p>
-I am Afif, a student pursuing a Master's degree in Geo-Information Science and Earth Observation through the Erasmus Mundus GEM joint master program, with a focus on Ecosystems and Natural Resources. Prior to graduate school, I gained <a href="https://geografif.github.io/cv/">experience</a> in both academic and public sector settings where I applied my geospatial skill in research and public policy implementation related to natural resource and spatial planning. My ongoing studies aim to deepen my understanding of how to extract meaningful information from satellite images for environmental monitoring and support for natural resource management.
+I am Afif, a student pursuing a Master's degree in Geo-Information Science and Earth Observation through the Erasmus Mundus GEM joint master program, with a focus on Ecosystems and Natural Resources. My ongoing studies aim to deepen my understanding of how to extract meaningful information from satellite images for environmental monitoring and support for natural resource management.
 
 <p><p>
 My current MSc thesis focuses on deep learning-based fusion of optical and SAR remote sensing images for mapping oil palms in the riparian zone. I am deeply interested in the technical aspects of geospatial technology and I am eager to broaden my domain knowledge in related fields. In particular, I am seeking opportunities to gain hands-on experience in ecosystem valuation, supply chain sustainability assessment, and carbon accounting.

@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "geografif.github.io"
+title                    : "apple-touch-icon-60x60.png" #"geografif.github.io"
 title_separator          : "-"
 name                     : &name "M. Afif Fauzan"
 description              : &description "Personal page"

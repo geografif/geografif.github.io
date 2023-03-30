@@ -8,7 +8,12 @@ redirect_from:
   - /resume
 ---
 
-## Work Experience
+## Experience
+* **Fairventures Social Forestry GmbH**<br>
+Period: April - June 2023<br>
+Position: Student Intern<br>
+Location: Amersfoort, Netherlands<br>
+
 * **East Kalimantan Province Government - Department of Spatial Planning**<br>
 Period: January 2019 - July 2021<br>
 Position: GIS Officer<br>

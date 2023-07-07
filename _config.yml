@@ -85,13 +85,13 @@ analytics:
 author:
   name             : "M. Afif Fauzan"
   avatar           : "profile.png"
-  bio              : "MSc student in geo-information science & earth observation"
+  bio              : "Leveraging geospatial technology to support environmental monitoring and natural resource management"
   location         : "Enschede, NL"
   employer         :
   pubmed           :
   orcid            : # "https://orcid.org/0000-0003-0898-5687"
   googlescholar    : # "https://scholar.google.com/citations?user=mCGH0uIAAAAJ"
-  email            : "m.afif.fauzan@outlook.com"
+  email            : #"m.afif.fauzan@outlook.com"
   researchgate     :  # "https://www.researchgate.net/profile/M-Afif-Fauzan"
   uri              :
   bitbucket        :
@@ -117,7 +117,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "afifauzan"
+  youtube          : #"afifauzan"
   wikipedia        :
 
 

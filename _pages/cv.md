@@ -36,7 +36,7 @@ Location: Yogyakarta, Indonesia
 
 
 ## Education
-* [**Faculty of ITC - University of Twente**](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/specialisation/natural-resources-management/#programme-overview) (2022-Present)<br>
+* [**Faculty of ITC - University of Twente**](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/specialisation/natural-resources-management/#programme-overview) (2022-2023)<br>
 M.Sc. in Geo-information Science and Earth Observation for Environmental Modelling and Management
 * [**Lund University**](https://www.nateko.lu.se/education/masters-programmes/geo-information-science-and-earth-observation-environmental-modelling-and-management-gem) (2021-2022)<br>
 M.Sc. in Geo-information Science and Earth Observation for Environmental Modelling and Management
@@ -50,6 +50,16 @@ B.Sc. in Cartography and Remote Sensing
 
 
 ## Training
-* **Earthworm Foundation** (2019)<br>
+* **PT GPSLands Indosolutions** (2019)<br>
+Trimble R4S GNSS
+
+* **The Forest Trust / Earthworm Foundation** (2019)<br>
 Conservation Area Management
 (*High Conservation Value Assessment, High Carbon Stock Assessment, Participatory Conservation Planning, Environmental Monitoring/Management Plan*)
+
+* **Fundamental R** (2017)<br>
+Tambora Conservationist Network
+
+* **CV Geo-Aerospace Yogyakarta** (2015)<br>
+Basic Multi-copter Piloting
+
